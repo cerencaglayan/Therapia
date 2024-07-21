@@ -1,1 +1,1 @@
-# Therapia-Thesis-Project-
+# Therapia-Thesis Project
